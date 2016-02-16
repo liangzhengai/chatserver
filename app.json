@@ -1,6 +1,6 @@
 {
-  "name": "Node.js Getting Started",
-  "description": "A barebones Node.js app using Express 4",
+  "name": "Node.js Chat Server",
+  "description": "Very simple chat server",
   "repository": "https://github.com/liangzhengai/chatserver",
   "keywords": ["node", "express", "static"]
 }
