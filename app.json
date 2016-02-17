@@ -1,6 +1,0 @@
-{
-  "name": "Node.js Chat Server",
-  "description": "Very simple chat server",
-  "repository": "https://github.com/liangzhengai/chatserver",
-  "keywords": ["node", "express", "static"]
-}
